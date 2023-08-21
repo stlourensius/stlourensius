@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<p align="justify">A fresh graduate in Industrial Engineering from Tanjungpura University with a strong interest in Data Science. Currently a freelancer on Fastwork with services such as Data Analysis, Web Scraping, and Creating Automation Script. Successfully completed all projects maintaining a 5/5 rating. I am very enthusiastic about learning and developing my skills in data field</p>
+<p align="justify">A fresh graduate in Industrial Engineering from Tanjungpura University with a strong interest in Data Science. Currently a freelancer on Fastwork with services such as Data Analysis, Web Scraping, and Creating Automation Script. Successfully completed all projects and maintaining a 5/5 rating. I am very enthusiastic about learning and developing my skills in data field</p>
 
 - 🌱 I’m currently learning **Python for Data Science, Web Scraping & Automation**
 
