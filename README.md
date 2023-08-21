@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A fresh graduate in Industrial Engineering from Tanjungpura University with a strong interest in Data Science</h3>
+<p align="justify">A fresh graduate in Industrial Engineering from Tanjungpura University with a strong interest in Data Science. I also possess a profound interest in web scraping. Currently, I am a freelancer on Fastwork.</p>
 
 - 🌱 I’m currently learning **Python for Data Science**
 
